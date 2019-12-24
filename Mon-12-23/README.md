@@ -11,4 +11,4 @@ dividesEvenly(85, 4) ➞ false
 a will always be greater than or equal to b.
 
 ## To Run Tests
-node Mon-12-23/solution.js
+node mon-12-23/solution.js
