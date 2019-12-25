@@ -1,4 +1,5 @@
-# Given two integers, a and b, return true if a can be divided evenly by b. Return false otherwise.
+# Problem
+Given two integers, a and b, return true if a can be divided evenly by b. Return false otherwise.
 
 ## Examples
 dividesEvenly(98, 7) ➞ true
