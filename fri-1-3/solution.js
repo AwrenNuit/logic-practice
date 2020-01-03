@@ -1,4 +1,4 @@
-checkEquality = (a, b) => a === b;
+const checkEquality = (a, b) => a === b;
 
 console.log(checkEquality(1, true));
 console.log(checkEquality('hello', 'hello'));
